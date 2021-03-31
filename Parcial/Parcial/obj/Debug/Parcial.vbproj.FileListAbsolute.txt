@@ -1,0 +1,10 @@
+c:\users\christopher\documents\visual studio 2012\Projects\Parcial\Parcial\bin\Debug\Parcial.exe.config
+c:\users\christopher\documents\visual studio 2012\Projects\Parcial\Parcial\bin\Debug\Parcial.exe
+c:\users\christopher\documents\visual studio 2012\Projects\Parcial\Parcial\bin\Debug\Parcial.pdb
+c:\users\christopher\documents\visual studio 2012\Projects\Parcial\Parcial\bin\Debug\Parcial.xml
+c:\users\christopher\documents\visual studio 2012\Projects\Parcial\Parcial\obj\Debug\Parcial.Form1.resources
+c:\users\christopher\documents\visual studio 2012\Projects\Parcial\Parcial\obj\Debug\Parcial.Resources.resources
+c:\users\christopher\documents\visual studio 2012\Projects\Parcial\Parcial\obj\Debug\Parcial.vbproj.GenerateResource.Cache
+c:\users\christopher\documents\visual studio 2012\Projects\Parcial\Parcial\obj\Debug\Parcial.exe
+c:\users\christopher\documents\visual studio 2012\Projects\Parcial\Parcial\obj\Debug\Parcial.xml
+c:\users\christopher\documents\visual studio 2012\Projects\Parcial\Parcial\obj\Debug\Parcial.pdb
